@@ -1,0 +1,29 @@
+## Day 1/50 — Programming Languages
+
+We humans are all different.
+Different thoughts,
+Different opinions,
+Different ways of seeing the world,
+Different things we like, dislike, believe, and feel.
+And yet, we communicate.
+
+I can tell you, “I liked what you did"
+Or, “Hey, I didn't like what you did the other day”
+
+The words may be simple, but the person receiving them may understand them differently.
+And strangely enough, programming languages aren't so different.
+We write in a language we understand — Python, Java, C, whatever it may be.
+But the computer doesn't understand our language directly.
+
+So comes the 'compiler' —
+the translator between what *we say* and what the *machine understands*
+
+Maybe humans need something like that too.
+A little compiler between **what someone says and what we think they meant**
+
+Because sometimes, the problem isn't that people don't communicate.
+
+"It's that we forget to translate"
+
+Maybe before reacting to someone's words,
+we should try compiling them through **understanding**.
