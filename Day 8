@@ -1,0 +1,25 @@
+### Day 8/50 — Constraints
+
+Not every value belongs everywhere.
+
+A database has rules.
+
+Some fields cannot be empty.
+Some values must be unique.
+Some things simply aren't allowed.
+
+These are called **constraints**.
+
+At first, rules can feel restrictive.
+
+But without them,
+data can become invalid,
+inconsistent,
+or completely messy.
+
+Maybe boundaries work the same way.
+They don't always stop things from happening.
+Sometimes,
+
+**They stop the wrong things
+from entering places where they don't belong.**
