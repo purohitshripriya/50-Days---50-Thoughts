@@ -1,0 +1,23 @@
+### Day 7/50 — SQL
+
+Yesterday, we spoke about queries.
+But a database doesn't just magically know what we want.
+
+We have to ask.
+
+And for that, we use a language.
+
+**SQL**
+
+`SELECT` what you need.
+`INSERT` something new.
+`UPDATE` what has changed.
+`DELETE` what is no longer required.
+
+Funny how even a database needs us to be clear.
+Because it can have all the information in the world—
+but it still cannot understand what we want
+unless we know how to ask for it.
+
+** Maybe clarity isn't just about having the right answer.
+Sometimes, it's about knowing how to ask.**
