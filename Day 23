@@ -1,0 +1,21 @@
+# Day 23/50 — TCP vs UDP
+
+Not all data needs to travel in the same way.
+
+Imagine sending an important document
+You would want to make sure every page reaches the receiver correctly.
+
+Now imagine watching a live video, waiting for every missing frame might ruin the experience.
+
+That's the difference between two common transport protocols.
+
+**TCP** focuses on reliable, ordered delivery, it checks that data reaches its destination correctly.
+
+**UDP** is faster and connectionless, but doesn't guarantee delivery or order.
+
+Neither is universally better. 
+The right choice depends on what the application needs.
+
+It's a reminder that speed and reliability aren't always the same thing.
+
+**Sometimes, the best way forward depends on what matters more in that moment**
