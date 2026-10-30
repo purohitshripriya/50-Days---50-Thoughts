@@ -1,0 +1,20 @@
+# Day 46/50 — Bugs & Debugging
+
+Every programmer knows this feeling.
+You write the code, run the program, and somehow, the output isn't what you expected.
+
+That's a **bug**
+
+A bug is an error or flaw in software that causes unexpected or incorrect behaviour. 
+Finding and fixing these issues is called **debugging**
+
+Sometimes the mistake is obvious. 
+Sometimes, one tiny error hides inside hundreds of lines of code.
+
+But debugging isn't just about fixing what's broken ,it's also about understanding why it broke.
+
+And perhaps that's what makes it valuable.
+
+Not every mistake needs to become a failure. Some of them show us exactly what needs to change.
+
+**Because sometimes, the error teaches us more than the perfect output ever could.**
