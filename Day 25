@@ -1,0 +1,17 @@
+# Day 25/50 — Processes
+
+Opening a browser, playing music or running a program — each of these can involve a process.
+
+A **process** is a program in execution
+It has its own state and resources, such as memory and system information.
+
+A program is just a set of instructions stored somewhere. 
+A process is what happens when those instructions actually start running.
+
+And that difference is interesting.
+
+Having a plan and putting it into action are two very different things.
+
+An idea can exist for a long time without becoming anything real.
+
+**Because a program becomes a process only when it starts doing something**
