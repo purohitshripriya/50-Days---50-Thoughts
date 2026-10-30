@@ -1,0 +1,18 @@
+# Day 43/50 — Encryption
+
+Imagine writing a message that only the intended person can understand.
+Even if someone else gets hold of it, the actual meaning remains hidden.
+
+That's the basic idea behind **Encryption**
+
+It converts readable information, called plaintext, into an unreadable form called ciphertext using an encryption method and a key.
+
+Only someone with the appropriate key can decrypt it and recover the original information.
+From online banking to private conversations, encryption helps protect sensitive data.
+
+And there's something beautiful about this idea.
+
+Not everything needs to be visible to everyone. 
+Some things deserve protection, even while travelling through an open world.
+
+**Because privacy isn't about hiding everything. It's about choosing who gets to see what.**
