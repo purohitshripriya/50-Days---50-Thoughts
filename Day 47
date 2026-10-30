@@ -1,0 +1,17 @@
+# Day 47/50 — Version Control (Git)
+
+Imagine working on a project for months.
+
+You make changes, experiment with new ideas, remove old features and sometimes wish you could return to an earlier version.
+
+That's where **Version Control** helps.
+
+Tools like Git track changes in files, allowing developers to understand project history, compare versions and collaborate without losing previous work.
+Every commit records a snapshot of changes.
+You can experiment, create branches and return to earlier versions when needed.
+
+And there's something interesting about that.
+
+Moving forward doesn't mean every previous version becomes useless. Sometimes, looking back helps us understand how far we've come.
+
+**Because progress isn't about having a perfect first version. It's about making every version a little better.**
