@@ -1,0 +1,17 @@
+# Day 27/50 — CPU Scheduling
+
+A computer may have several processes waiting to use the CPU.
+
+But the CPU cannot execute every process at the exact same moment on a single core.
+So, how does it decide what runs next?
+
+That's where **CPU Scheduling** comes in
+
+Scheduling algorithms like FCFS, SJF and Round Robin decide how CPU time is allocated to processes.
+Some prioritize arrival order, some consider execution time, and others give processes turns.
+
+Every decision affects waiting time, response time and overall performance
+
+It makes you think about how limited resources are managed.
+
+**Sometimes, efficiency isn't about having more time. It's about deciding how to use the time available**
