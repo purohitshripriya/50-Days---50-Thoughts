@@ -1,0 +1,16 @@
+# Day 22/50 — Data Packets
+
+When we send a large file over a network, it doesn't always travel as one giant piece.
+Instead, the data is divided into smaller units called **packets**.
+
+Each packet carries part of the information, along with details that help it reach its destination. 
+At the receiving end, the data can be reassembled.
+
+A huge amount of information can travel across networks this way.
+
+And there's something interesting about this approach.
+
+Big things don't always have to move as one big piece.
+Sometimes, breaking them into smaller parts makes the entire process easier to manage.
+
+**Because even the biggest journeys can happen one small packet at a time**
