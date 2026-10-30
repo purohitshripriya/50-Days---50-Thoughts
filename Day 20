@@ -1,0 +1,18 @@
+# Day 20/50 — IP Address
+
+Every device communicating over an IP network needs an address that helps identify where data should go.
+That's what an **IP address** does.
+
+Whether it's IPv4 or IPv6, an IP address helps networks identify devices and route information to the right destination.
+
+Think of sending a letter.
+
+You may have the message ready, but without a destination address, it won't reach the person it's meant for.
+
+Data works in a similar way.
+It travels across networks, passing through different devices before reaching its destination.
+
+And perhaps that's a simple reminder:
+  Having something worth sharing is one thing. Knowing where it needs to reach is another.
+
+**Because even the most important message needs a destination.**
