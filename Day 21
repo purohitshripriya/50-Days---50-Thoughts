@@ -1,0 +1,19 @@
+# Day 21/50 — DNS (Domain Name System)
+
+Imagine having to remember the phone number of every person you know just to contact them.
+Sounds difficult, right?
+Of course it is!
+
+The internet has a similar challenge
+Computers communicate using IP addresses, but remembering numerical addresses for every website would be inconvenient.
+
+That's where **DNS** comes in
+
+The Domain Name System translates human-friendly domain names, like google.com, into IP addresses that computers can use to locate servers.
+We type a name, and DNS helps find its destination.
+
+It's interesting how technology makes complicated things feel simple.
+
+Sometimes, the best systems are the ones doing the difficult work quietly in the background.
+
+**Because simplicity on the surface often takes a lot of work underneath**
