@@ -1,0 +1,15 @@
+# Day 12/50 — Database Normalization
+
+Imagine having the same information written in five different places.
+
+Every time something changes, you'd have to update it everywhere. Miss one place, and suddenly things don't match.
+
+That's exactly the kind of problem database normalization tries to solve.
+It organizes data into separate, related tables, reduces unnecessary repetition, and helps maintain consistency.
+
+And honestly, there's something interesting about that.
+
+We often think having more information means having a better understanding. But sometimes, repeating the same things everywhere only creates confusion.
+Not everything needs to be duplicated to remain important.
+
+**Sometimes, keeping things simple is what keeps them consistent.**
