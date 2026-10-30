@@ -1,0 +1,17 @@
+# Day 34/50 — Training Data
+
+A machine learning model doesn't learn out of nowhere.
+It needs data.
+
+**Training data** is the information used to teach a model to recognize patterns and make predictions.
+
+For example, if we want a model to identify spam emails, we need examples of both spam and non-spam messages.
+The model studies these examples and learns patterns that can help it classify new emails.
+
+But the quality and variety of the examples matter.
+
+Give a model incomplete or unrepresentative data, and its learning can become limited too.
+
+It's a reminder that what we learn from depends a lot on what we're exposed to.
+
+**Because even the most advanced learner is limited by the quality of what it learns from**
