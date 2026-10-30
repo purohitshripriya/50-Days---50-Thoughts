@@ -1,0 +1,17 @@
+# Day 42/50 — Authentication
+
+Before entering a restricted place, we may be asked to show an identity card.
+
+Online systems have a similar process.
+
+**Authentication** is the process of verifying whether someone is really who they claim to be.
+
+Passwords, OTPs, fingerprints and face recognition are common ways of verifying identity.
+
+It's different from authorization — authentication checks who you are, while authorization determines what you're allowed to access.
+
+And that difference matters.
+
+Not everyone who asks for access should automatically receive it.
+
+**Because knowing someone's identity and deciding what they can access are two very different things.**
