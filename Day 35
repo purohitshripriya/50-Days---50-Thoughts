@@ -1,0 +1,19 @@
+# Day 35/50 — Bias in AI
+
+AI systems can make decisions, predictions and recommendations.
+
+But does that automatically make every decision fair?
+
+Not necessarily.
+
+**Bias in AI** occurs when a system produces unfair or systematically skewed results.
+
+This can happen because of unrepresentative training data, biased assumptions, or the way a model is designed and evaluated.
+
+For example, a hiring model trained on historically biased recruitment data may repeat those patterns instead of correcting them.
+And that's something we need to pay attention to.
+
+Technology doesn't exist separately from the world it learns from. 
+It can reflect the same inequalities present in its data.
+
+**Because intelligence without fairness can still lead to unfair decisions.**
