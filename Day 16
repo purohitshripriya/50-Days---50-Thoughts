@@ -1,0 +1,16 @@
+#  Day 16/50 — Database Backup & Recovery
+
+Imagine spending hours creating something important, only to lose it because of one unexpected failure.
+
+For a database, that could mean losing years of records, transactions, or important information.
+That's why databases need backups and recovery mechanisms.
+
+A **backup** creates a copy of data so it can be restored later
+**Recovery** helps bring the database back to a consistent state after failures or data loss.
+
+Technology teaches us something important here.
+
+We often focus so much on building things that we forget to prepare for the possibility of losing them.
+But protecting what we've built is just as important as building it.
+
+**Because progress isn't only about moving forward. It's also about knowing how to recover when things go wrong.**
