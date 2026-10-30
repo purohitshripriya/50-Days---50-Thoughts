@@ -1,0 +1,18 @@
+# Day 19/50 — Network Protocols
+
+Imagine two people trying to have a conversation, but neither understands the other's language.
+The connection exists, but communication doesn't really happen.
+
+Computers face a similar problem.
+
+That's why networks use **protocols** — a set of rules that define how devices communicate and exchange data.
+
+HTTP helps transfer web content
+TCP provides reliable data delivery
+IP helps route packets across networks.
+
+Different protocols have different responsibilities, but together they make communication possible
+
+A connection alone doesn't guarantee understanding, there has to be a common set of rules
+
+**Because communication isn't just about sending something. It's about making sure the other side can receive and understand it.**
