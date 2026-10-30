@@ -1,0 +1,18 @@
+# Day 28/50 — Multitasking
+
+Listening to music while browsing the internet, downloading a file while attending a video call.
+It feels like a computer is doing everything at once.
+
+This is called **multitasking**
+
+An operating system manages multiple tasks by switching CPU time between processes or threads
+On multi-core systems, some tasks can also execute simultaneously.
+
+The result? We can use multiple applications without having to finish one before starting another.
+
+But there's a catch.
+Managing many tasks also requires coordination and resources.
+
+Maybe doing more things isn't always the same as doing them well.
+
+**Because multitasking is not just about handling everything. It's about managing everything without losing control**
