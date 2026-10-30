@@ -1,0 +1,15 @@
+# Day 37/50 — Virtualization
+
+What if one physical computer could behave like several separate computers?
+That's possible through **Virtualization**
+
+It allows us to create virtual versions of computing resources, such as servers, operating systems and storage.
+
+A single physical machine can run multiple virtual machines, each with its own operating system and allocated resources.
+This helps improve resource utilization, flexibility and isolation.
+
+One physical system --> Multiple independent environments
+
+It's interesting how the same resources can be used in completely different ways when we change how they're divided.
+
+**Sometimes, we don't need more resources. We need to use the ones we already have differently.**
