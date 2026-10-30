@@ -1,0 +1,15 @@
+# Day 26/50 — Threads
+
+A process doesn't always have to do everything through one single path of execution.
+
+It can contain multiple **threads**, which are smaller units of execution within that process.
+Threads can work on different tasks while sharing the process's resources.
+
+For example, an application might handle user input while another thread performs background work.
+
+It's interesting how one application can manage multiple activities at once.
+Not every task needs to wait for another to finish.
+
+Sometimes, dividing the work makes the entire system more responsive.
+
+**Because working together doesn't always mean doing the same thing**
