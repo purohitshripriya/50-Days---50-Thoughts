@@ -1,0 +1,17 @@
+# Day 13/50 — Indexing
+
+Imagine walking into a library looking for one particular book.
+
+You could search every shelf, one book at a time or you could simply check the catalogue and find exactly where it is.
+
+That's more or less what indexing does in a database.
+An index helps the database locate specific records faster, without scanning every row.
+It doesn't change the information itself
+It simply makes finding it more efficient.
+
+And maybe that's an interesting thought to carry beyond technology.
+
+We don't always need to search harder. 
+Sometimes, we just need a better way to find what we're looking for.
+
+**Because finding something shouldn't always mean searching through everything.**
