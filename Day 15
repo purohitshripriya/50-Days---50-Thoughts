@@ -1,0 +1,19 @@
+# Day 15/50 — ACID Properties
+
+A database transaction might involve several operations, but how do we make sure everything happens correctly?
+
+That's where ACID properties come in.
+
+- **Atomicity:** Either everything happens or nothing does.
+- **Consistency:** The database remains valid before and after a transaction.
+- **Isolation:** Multiple transactions don't interfere with each other.
+- **Durability:** Once changes are committed, they stay saved.
+
+Together, these four properties make database transactions reliable.
+
+And there's something interesting here.
+
+Reliability isn't just about things working when everything is perfect
+It's about maintaining correctness even when multiple things are happening at once.
+
+**Because being reliable means more than simply working. It means working correctly, even under pressure.**
