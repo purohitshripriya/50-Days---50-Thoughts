@@ -1,0 +1,20 @@
+# Day 31/50 — Data Structures
+
+A computer doesn't just need information
+It also needs a way to organize it.
+
+That's where **Data Structures** come in.
+
+Arrays, Linked Lists, Stacks, Queues, Trees and Graphs — each structure stores and organizes data differently.
+
+An array keeps elements in an indexed sequence. 
+A stack follows LIFO.
+A queue follows FIFO. 
+Trees represent hierarchical relationships, while
+Graphs connect different nodes.
+
+The choice of structure can change how efficiently a problem is solved.
+
+It's interesting how the same information can become easier or harder to work with depending on how it's arranged.
+
+**Because sometimes, the way we organize information matters just as much as the information itself**
