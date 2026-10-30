@@ -1,0 +1,16 @@
+# Day 38/50 — Servers
+
+Every time we open a website, send a request or access an online service, something somewhere needs to respond.
+
+That's where **servers** come in
+
+A server is a computer or software system that provides services or resources to other devices, known as clients.
+It might store website files, process requests, manage databases or deliver information.
+
+We usually notice the result — a webpage loading or a file appearing — but not the system working behind it.
+
+And that's what makes servers interesting.
+
+A lot of important work happens without demanding attention.
+
+**Not everything that keeps things running needs to be seen.**
