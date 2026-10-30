@@ -34,8 +34,8 @@ So, this project is my attempt to explore the **human side of technology** — o
 
 ### Chapter 1 — The World of Data & Databases 🗄️
 
-|   Day   |   Topic   |   Thought   |
-
+| Day | Topic | Thought |
+|:---:|---|---|
 | 01 | Programming Languages | Sometimes communication needs a little translation. |
 | 02 | Memory | We remember not just what is stored, but what means something to us. |
 | 03 | Data | Small pieces of information can come together to tell a bigger story. |
@@ -56,7 +56,7 @@ So, this project is my attempt to explore the **human side of technology** — o
 ### Chapter 2 — Understanding Computer Networks 🌐
 
 | Day | Topic | Thought |
-
+|:---:|---|---|
 | 17 | Computer Networks | The real power can be in what happens when things connect. |
 | 18 | Network Topologies | It's not just about connections, but how they're arranged. |
 | 19 | Network Protocols | Communication needs more than a connection; it needs common rules. |
@@ -68,7 +68,7 @@ So, this project is my attempt to explore the **human side of technology** — o
 ### Chapter 3 — Inside the Computer ⚙️
 
 | Day | Topic | Thought |
-
+|:---:|---|---|
 | 24 | Operating Systems | Sometimes, the most important role is played by the one keeping everything running. |
 | 25 | Processes | A program becomes a process only when it starts doing something. |
 | 26 | Threads | Working together doesn't always mean doing the same thing. |
@@ -79,7 +79,7 @@ So, this project is my attempt to explore the **human side of technology** — o
 ### Chapter 4 — Intelligence & Logic 🧠
 
 | Day | Topic | Thought |
-
+|:---:|---|---|
 | 30 | Algorithms | Sometimes, the difference is in how efficiently you reach the answer. |
 | 31 | Data Structures | The way we organize information matters just as much as the information itself. |
 | 32 | Artificial Intelligence | An intelligent response and true understanding aren't necessarily the same thing. |
@@ -90,7 +90,7 @@ So, this project is my attempt to explore the **human side of technology** — o
 ### Chapter 5 — Cloud & Distributed Systems ☁️
 
 | Day | Topic | Thought |
-
+|:---:|---|---|
 | 36 | Cloud Computing | Sometimes, access can be more valuable than ownership. |
 | 37 | Virtualization | Sometimes, we don't need more resources; we need to use them differently. |
 | 38 | Servers | Not everything that keeps things running needs to be seen. |
@@ -100,7 +100,7 @@ So, this project is my attempt to explore the **human side of technology** — o
 ### Chapter 6 — Security & Trust 🔐
 
 | Day | Topic | Thought |
-
+|:---:|---|---|
 | 41 | Cybersecurity | Security isn't about expecting the worst; it's about being prepared for it. |
 | 42 | Authentication | Knowing someone's identity and deciding what they can access are different things. |
 | 43 | Encryption | Privacy is about choosing who gets to see what. |
@@ -110,7 +110,7 @@ So, this project is my attempt to explore the **human side of technology** — o
 ### Chapter 7 — Building, Breaking & Becoming 🚀
 
 | Day | Topic | Thought |
-
+|:---:|---|---|
 | 46 | Bugs & Debugging | Sometimes, the error teaches us more than the perfect output ever could. |
 | 47 | Version Control (Git) | Progress isn't about having a perfect first version; it's about making every version better. |
 | 48 | Software Updates | Even something that works today may need an update tomorrow. |
