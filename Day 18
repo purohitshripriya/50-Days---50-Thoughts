@@ -1,0 +1,18 @@
+#  Day 18/50 — Network Topologies
+
+Not every network is connected in the same way.
+Some devices connect to a central point, some form a circle, and others connect through multiple paths.
+
+These arrangements are called **network topologies**
+
+Star, Bus, Ring, Mesh and Tree are some common types.
+
+Each structure has its own advantages and limitations.
+The way devices are arranged can affect performance, reliability and how easily the network can grow
+
+It's interesting how the same devices can work differently just because their connections are arranged differently.
+Even in a group, structure matters.
+
+Who connects to whom, how information flows, and what happens when one connection fails can change everything.
+
+**Sometimes, it's not just about having connections. It's about how those connections are arranged.**
