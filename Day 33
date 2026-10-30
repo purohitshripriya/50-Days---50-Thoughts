@@ -1,0 +1,15 @@
+# Day 33/50 — Machine Learning
+
+Imagine teaching a computer to recognize cats.
+Instead of writing instructions for every possible cat, we give it examples. 
+Over time, it learns patterns from the data and uses them to make predictions.
+
+That's the basic idea behind **Machine Learning**
+
+It's a branch of AI where systems learn patterns from data rather than relying only on explicitly programmed rules.
+
+Supervised learning, unsupervised learning and reinforcement learning are some common approaches.
+
+The interesting part is that the system isn't simply memorizing every example. It's trying to identify patterns that help it handle new situations.
+
+**Sometimes, learning isn't about collecting more answers. It's about recognizing the patterns hidden between them.**
