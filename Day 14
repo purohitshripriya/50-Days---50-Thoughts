@@ -1,0 +1,20 @@
+# Day 14/50 — Transactions
+
+Imagine transferring money to someone.
+
+The amount should leave one account and reach the other. 
+Both actions are connected
+If one happens but the other fails, something goes wrong.
+
+That's why databases use **transactions**
+
+A transaction is a group of operations treated as one logical unit either all the operations are completed successfully, or the changes are rolled back
+
+No half-finished operations , no incomplete updates.
+
+And isn't that interesting?
+
+Some things only make sense when every part of them works together
+Completing just one half doesn't mean the task is done.
+
+**Because sometimes, it's not about starting something. It's about making sure it reaches completion.**
