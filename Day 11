@@ -1,0 +1,19 @@
+# Day 11/50 — Joins in SQL
+
+Having connections isn't always enough.
+Sometimes, we need to bring information from different tables together to understand the complete picture.
+
+That's what ** Joins in SQL ** do
+They combine related data from two or more tables using a common column.
+
+Think about it.
+
+One table might tell us who a student is. Another might tell us which events they've registered for.
+Separately, they hold different pieces of information. Together, they tell us a bigger story.
+
+Maybe that's how understanding works too.
+
+Sometimes, one piece of information isn't enough to see the whole picture
+We need to connect different perspectives before things start making sense.
+
+**Because sometimes, the answer isn't in one place. It's in the connection between them.**
