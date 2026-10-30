@@ -1,0 +1,19 @@
+# Day 40/50 — Distributed Systems
+
+What happens when multiple computers work together but exist in different locations?
+
+They can form a **Distributed System**
+
+A distributed system consists of multiple independent computers that communicate and coordinate to achieve a common goal.
+From online banking to cloud platforms and large-scale applications, distributed systems help services operate across multiple machines.
+
+But coordination isn't always easy.
+
+Machines can fail, networks can become unavailable, and information may take time to synchronize.
+Yet the system is designed to keep working despite these challenges.
+
+And perhaps that's the most interesting part.
+
+Working together doesn't mean everything will always go perfectly. It means having ways to handle things when they don't.
+
+**Because true strength isn't about never facing failure. It's about continuing to function even when one part of the system does.**
