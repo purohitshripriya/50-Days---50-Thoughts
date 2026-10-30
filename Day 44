@@ -1,0 +1,19 @@
+# Day 44/50 — Firewalls
+
+Imagine a building with a security gate.
+
+People and vehicles don't simply enter without being checked. 
+There are rules about what gets through and what stays outside.
+
+A **Firewall** does something similar for computer networks.
+It monitors incoming and outgoing network traffic and allows or blocks it based on predefined security rules.
+It acts as a barrier between trusted and untrusted networks, helping prevent unauthorized access.
+
+But a firewall doesn't make a system completely secure. 
+It is one layer of a much larger security approach.
+
+And that's an interesting thought.
+
+Protection doesn't always mean shutting everything out. Sometimes, it means knowing what to allow and what to keep away.
+
+**Because a good boundary isn't meant to stop everything. It's meant to protect what matters.**
