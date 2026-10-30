@@ -1,0 +1,24 @@
+### Day 10/50 — Relationships in Databases
+
+In a database, not every piece of information exists independently.
+
+Some records are connected to one another.
+
+One student can register for many events.  
+One event can have many students.  
+And sometimes, one record connects two completely different tables.
+
+That's how relationships work in databases.
+
+There are different types of relationships — 
+one-to-one, one-to-many and many-to-many
+
+And honestly, it's interesting how differently things can be connected.
+
+Not everything has to follow the same pattern.
+
+Some connections are between two individuals.  
+Some involve many people.  
+And some exist only because of a common purpose.
+
+** Maybe that's what makes relationships interesting too - there isn't just one way for two things to be connected **
