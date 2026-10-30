@@ -1,0 +1,18 @@
+# Day 29/50 — Deadlocks
+
+Imagine two people standing in front of each other, each waiting for the other to move first.
+Neither moves
+Neither gives way.
+
+Something similar can happen inside an operating system.
+
+A **deadlock** occurs when processes wait indefinitely for resources held by one another, so none of them can continue.
+
+It can happen when four conditions exist together: mutual exclusion, hold and wait, no preemption, and circular wait.
+
+The system isn't necessarily broken, it's simply stuck.
+And that's an interesting thought.
+
+Sometimes, a situation doesn't remain unresolved because there's no solution. It remains unresolved because everyone is waiting for something else to happen first.
+
+**Because waiting without a way forward is still being stuck**
