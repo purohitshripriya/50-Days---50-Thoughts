@@ -1,0 +1,20 @@
+# Day 39/50 — Load Balancing
+
+Imagine hundreds of people trying to enter through just one door while several other doors remain unused.
+
+The result? 
+A crowded entrance and unnecessary waiting
+
+Web servers can face a similar problem when too many requests reach one server.
+
+**Load Balancing** distributes incoming traffic across multiple servers to prevent any single server from becoming overloaded.
+It helps improve performance, availability and reliability.
+
+Instead of making one system handle everything, the workload is shared.
+
+And there's something worth noticing here.
+
+Growth isn't always about making one person or system do more. 
+Sometimes, it's about distributing the responsibility better
+
+**Because a system becomes stronger when the load doesn't fall on just one part of it.**
